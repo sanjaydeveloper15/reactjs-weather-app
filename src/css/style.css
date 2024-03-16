@@ -1,5 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
 
+:root {
+  --body-bg-color: black;
+  --gradient-color-one: skyblue;
+  --gradient-color-two: rgba(148, 231, 231, 0.589);
+  --gradient-color-three: turquoise;
+  --header-height: 50px;
+}
 
 body {
   margin: 0;
@@ -164,4 +171,41 @@ p {
 
 .card-weather .weakly-weather .weakly-weather-item i {
   font-size: 1.2rem
+}
+
+header {
+  margin: 10px 0px 10px 0px;
+  /* width: 100vw; */
+  height: var(--header-height);
+  background: linear-gradient(
+    to right,
+    var(--gradient-color-one),
+    var(--gradient-color-two),
+    var(--gradient-color-three)
+  );
+  background-size: 200% 100%; /* Double the width to accommodate the animation */
+  animation: animateGradient 5s linear infinite;
+  text-align: center;
+}
+
+
+@keyframes animateGradient {
+  0% {
+    background-position: 0 50%; /* Start from left */
+  }
+  50% {
+    background-position: 100% 50%; /* Move to right */
+  }
+  100% {
+    background-position: 0 50%; /* Move back to left */
+  }
+}
+
+.header-title {
+  line-height: 1.8 !important;
+  color: aliceblue;
+}
+
+.footer-content > a {
+  color: darkblue;
 }

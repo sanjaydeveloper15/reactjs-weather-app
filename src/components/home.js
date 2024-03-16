@@ -117,6 +117,10 @@ export default class Header extends Component {
                       <p> <img src={icon}/> {tempDesc} </p>
                     </div>
                   </div>
+
+                  <div className="footer-content">
+                    Love it!, Follow <a href="https://www.linkedin.com/in/sanjaykumarwebs/" target="_blank">here</a>
+                  </div>
                 </div>
                 <div className="card-body p-0">
                   <div className="d-flex weakly-weather">
