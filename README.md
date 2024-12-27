@@ -55,7 +55,7 @@ Open your browser and navigate to:
 ## **📸 Screenshots**
 
 
-![Home Page Screenshot](https://github.com/sanjaydeveloper15/reactjs-weather-app/public/images/react-weather-app-sanjaydeveloper15.png)
+![Home Page Screenshot](https://github.com/sanjaydeveloper15/reactjs-weather-app/blob/main/public/images/react-weather-app-sanjaydeveloper15.png)
 
 
 ---
