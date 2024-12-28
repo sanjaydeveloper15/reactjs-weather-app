@@ -53,8 +53,8 @@ Open your browser and navigate to:
 ---
 
 ## **📸 Screenshots**
-
-![Home Page Screenshot New Delhi](https://github.com/sanjaydeveloper15/reactjs-weather-app/blob/main/public/images/react-weather-app-sanjaydeveloper15.png)
+<!-- 
+![Home Page Screenshot New Delhi](https://github.com/sanjaydeveloper15/reactjs-weather-app/blob/main/public/images/react-weather-app-sanjaydeveloper15.png) -->
 ![Home Page Screenshot Shima](https://github.com/sanjaydeveloper15/reactjs-weather-app/blob/main/public/images/react-weather-app-s1-sanjaydeveloper15.png)
 ![Home Page Screenshot Latvia](https://github.com/sanjaydeveloper15/reactjs-weather-app/blob/main/public/images/react-weather-app-s2-sanjaydeveloper15.png)
 ![Home Page Screenshot Nuevo](https://github.com/sanjaydeveloper15/reactjs-weather-app/blob/main/public/images/react-weather-app-s3-sanjaydeveloper15.png)
