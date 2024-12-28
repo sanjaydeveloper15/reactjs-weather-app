@@ -55,7 +55,9 @@ Open your browser and navigate to:
 ## **📸 Screenshots**
 
 
-![Home Page Screenshot](https://github.com/sanjaydeveloper15/reactjs-weather-app/blob/main/public/images/react-weather-app-sanjaydeveloper15.png)
+![Home Page Screenshot Delhi 1](https://github.com/sanjaydeveloper15/reactjs-weather-app/blob/main/public/images/react-weather-app-s1-sanjaydeveloper15.png)
+![Home Page Screenshot Latvia 2](https://github.com/sanjaydeveloper15/reactjs-weather-app/blob/main/public/images/react-weather-app-s2-sanjaydeveloper15.png)
+![Home Page Screenshot Wrong Name 3](https://github.com/sanjaydeveloper15/reactjs-weather-app/blob/main/public/images/react-weather-app-s3-sanjaydeveloper15.png)
 
 
 ---
